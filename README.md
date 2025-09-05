@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Aradhana Singh - [aaradhnas32@gmail.com](mailto:aaradhnas32@gmail.com)
 
-Project Link: [https://github.com/aaradhna01/portfolio](https://github.com/aaradhna01/portfolio)
+Project Link: [https://github.com/aaradhna01/portfolio](https://github.com/aaradhna01)
 
 ---
 
