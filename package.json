@@ -1,5 +1,5 @@
 {
-  "homepage": " https://aaradhna01.github.io",
+  "homepage": " https://aaradhna01.github.io/aaradhna01.github.io",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "vite build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
